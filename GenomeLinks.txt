@@ -1,0 +1,14 @@
+Takifugu rubripes
+ftp://ftp.jgi-psf.org/pub/JGI_data/Fugu/v4.0/Takru4.allmasked.gz
+
+Caenorhabditis elegans
+ftp://ftp.wormbase.org/pub/wormbase/genomes/c_elegans/sequences/dna/c_elegans.WS199.dna.fa.gz
+
+Homo sapiens (CHR1)
+ftp://ftp.ncbi.nlm.nih.gov/genomes/H_sapiens/CHR_01/hs_ref_chr1.fa.gz
+
+Danio rerio
+ftp://ftp.ensembl.org/pub/assembly/zebrafish/Zv8release/Zv8_contigs.fa
+
+Gallus gallus
+ftp://ftp.ncbi.nlm.nih.gov/genomes/Gallus_gallus/pre-release/contig_fasta/ref_placed.fa.gz 
