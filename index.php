@@ -1,4 +1,4 @@
-w<html>
+<html>
 <head>
 <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=ISO-8859-1">
 <title>
